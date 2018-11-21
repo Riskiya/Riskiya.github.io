@@ -1,0 +1,13 @@
+h1, h2, h3,h4, p{
+	font-family: Georgia, serif; color:rgb(201, 71,71); font-size: 24pt; text-align: center;
+}
+
+dl{
+font-family: Georgia, serif; color:rgb(150, 80,80);font-size: 13pt; text-align:center;
+}
+body{
+	text-align: center;
+}
+*{
+	background: rgb(241, 247, 247)
+}
